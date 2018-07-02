@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "838066456080",
+    "firebase_url": "https://vale-vans-db.firebaseio.com",
+    "project_id": "vale-vans-db",
+    "storage_bucket": "vale-vans-db.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:838066456080:android:cbea6b86a9fd58d2",
+        "android_client_info": {
+          "package_name": "valevansapp.com.br.valevansapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "838066456080-vk11jjnvbt9b6cme168rc66g1lnjjsk9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "valevansapp.com.br.valevansapp",
+            "certificate_hash": "73c278f48481007dd933ab7aa478ee6f53d09c6b"
+          }
+        },
+        {
+          "client_id": "838066456080-jh22guomt2li5sesvsl8k3u8korn7hkv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfpYFIzded9cmEW3EzZLGz6HXOVRndN6Q"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "838066456080-jh22guomt2li5sesvsl8k3u8korn7hkv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
